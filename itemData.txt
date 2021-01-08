@@ -1,0 +1,211 @@
+SECONDARY- Name: Aachen-LR2
+Type: Sniper Rifle
+DPS: 1032.23
+Item Rarity: Rare
+Weapon Slot: SECONDARY
+Rounds: 90
+Rate of Fire: 1.5/second
+Magazine Size: 4, HEAVY- Name: Sleeper Simulant
+Type: Linear Fusion Rifle
+DPS: 1289.23
+Item Rarity: Exotic
+Weapon Slot: HEAVY
+Rounds: 40
+Rate of Fire: .667/second
+Magazine Size: 3, PRIMARY- Name: Black Tiger-2sr
+Type: Scout Rifle
+DPS: 1010.45
+Item Rarity: Rare
+Weapon Slot: PRIMARY
+Rounds: 260
+Rate of Fire: 16.25/second
+Magazine Size: 16, SECONDARY- Name: The Mountaintop
+Type: Grenade Launcher
+DPS: 1110.54
+Item Rarity: Legendary
+Weapon Slot: SECONDARY
+Rounds: 90
+Rate of Fire: 1.5/second
+Magazine Size: 1, SECONDARY- Name: Nox Calyx II
+Type: Fusion Rifle
+DPS: 967.56
+Item Rarity: Uncommon
+Weapon Slot: SECONDARY
+Rounds: 25
+Rate of Fire: .41/second
+Magazine Size: 5, SECONDARY- Name: Botheration Mk.28
+Type: Shotgun
+DPS: 1065.0
+Item Rarity: Rare
+Weapon Slot: SECONDARY
+Rounds: 55
+Rate of Fire: .9/second
+Magazine Size: 5, SECONDARY- Name: Divinity
+Type: Trace Rifle
+DPS: 1278.65
+Item Rarity: Exotic
+Weapon Slot: SECONDARY
+Rounds: 1000
+Rate of Fire: 16.6/second
+Magazine Size: 94, SECONDARY- Name: Recital-17
+Type: Sidearm
+DPS: 914.53
+Item Rarity: Uncommon
+Weapon Slot: SECONDARY
+Rounds: 450
+Rate of Fire: 7.5/second
+Magazine Size: 15, HEAVY- Name: Wordline Zero
+Type: Long Sword
+DPS: 1289.56
+Item Rarity: Exotic
+Weapon Slot: HEAVY
+Material: Material Unknown
+Edge Type: Energy
+Reach: 49.2 inches, HEAVY- Name: Izanagi's Burden
+Type: Sniper Rifle
+DPS: 1300.0
+Item Rarity: Exotic
+Weapon Slot: HEAVY
+Rounds: 90
+Rate of Fire: 1.5/second
+Magazine Size: 4, PRIMARY- Name: Dire Promise
+Type: Hand Cannon
+DPS: 1175.53
+Item Rarity: Legendary
+Weapon Slot: PRIMARY
+Rounds: 140
+Rate of Fire: 2.7/second
+Magazine Size: 11, HEAVY- Name: Whisper of the Worm
+Type: Sniper Rifle
+DPS: 1269.546
+Item Rarity: Exotic
+Weapon Slot: HEAVY
+Rounds: 72
+Rate of Fire: 1.2/second
+Magazine Size: 3, PRIMARY- Name: Khvostov 7G-02
+Type: Auto Rifle
+DPS: 857.32
+Item Rarity: Common
+Weapon Slot: PRIMARY
+Rounds: 600
+Rate of Fire: 10/second
+Magazine Size: 40, SECONDARY- Name: Stubborn Oak
+Type: Shotgun
+DPS: 867.0
+Item Rarity: Common
+Weapon Slot: SECONDARY
+Rounds: 55
+Rate of Fire: .91/second
+Magazine Size: 5, PRIMARY- Name: Accrued Redemption
+Type: Bow
+DPS: 1125.0
+Item Rarity: Legendary
+Weapon Slot: PRIMARY
+Rounds: 50
+Rate of Fire: 1/second
+Magazine Size: 1, HEAVY- Name: The Lament
+Type: Broad Sword/Chainsaw
+DPS: 1296.56
+Item Rarity: Exotic
+Weapon Slot: HEAVY
+Material: Saw Edge
+Edge Type: Matieral Unknown
+Reach: 39.32 inches, HEAVY- Name: Rest for the Wicked
+Type: Sword
+DPS: 967.0
+Item Rarity: Rare
+Weapon Slot: HEAVY
+Material: Steel
+Edge Type: Single-edged
+Reach: 32.5 inches, PRIMARY- Name: Fare-Thee-Well
+Type: Scout Rifle
+DPS: 927.23
+Item Rarity: Uncommon
+Weapon Slot: PRIMARY
+Rounds: 200
+Rate of Fire: 13/second
+Magazine Size: 15, HEAVY- Name: Butler RS/2
+Type: Rocket Launcher
+DPS: 998.56
+Item Rarity: Uncommon
+Weapon Slot: HEAVY
+Rounds: 15
+Rate of Fire: .25/second
+Magazine Size: 1, PRIMARY- Name: Agrona PR2
+Type: Pulse Rifle
+DPS: 1000.0
+Item Rarity: Rare
+Weapon Slot: PRIMARY
+Rounds: 450
+Rate of Fire: 16/second
+Magazine Size: 28, HEAVY- Name: Temporal Clause
+Type: Machine Gun
+DPS: 1189.52
+Item Rarity: Legendary
+Weapon Slot: HEAVY
+Rounds: 900
+Rate of Fire: 15/second
+Magazine Size: 200, PRIMARY- Name: Outbreak Perfected
+Type: Pulse Rifle
+DPS: 1249.0
+Item Rarity: Exotic
+Weapon Slot: PRIMARY
+Rounds: 450
+Rate of Fire: 13.2/second
+Magazine Size: 34, SECONDARY- Name: Spiderbite-1si
+Type: Sidearm
+DPS: 824.52
+Item Rarity: Common
+Weapon Slot: SECONDARY
+Rounds: 360
+Rate of Fire: 6/second
+Magazine Size: 15, SECONDARY- Name: Dream Breaker
+Type: Fusion Rifle
+DPS: 1152.23
+Item Rarity: Legendary
+Weapon Slot: SECONDARY
+Rounds: 32
+Rate of Fire: .53/second
+Magazine Size: 6, PRIMARY- Name: Lost and Found
+Type: Pulse Rifle
+DPS: 820.65
+Item Rarity: Common
+Weapon Slot: PRIMARY
+Rounds: 540
+Rate of Fire: 16.875/second
+Magazine Size: 32, PRIMARY- Name: Daystar SMG2
+Type: Submachine Gun
+DPS: 902.0
+Item Rarity: Uncommon
+Weapon Slot: PRIMARY
+Rounds: 900
+Rate of Fire: 25.7/second
+Magazine Size: 35, HEAVY- Name: Xenophage
+Type: Heavy Machine Gun
+DPS: 1269.42
+Item Rarity: Exotic
+Weapon Slot: HEAVY
+Rounds: 120
+Rate of Fire: 2/second
+Magazine Size: 20, SECONDARY- Name: Cloudstrike
+Type: Sniper Rifle
+DPS: 1278.56
+Item Rarity: Exotic
+Weapon Slot: SECONDARY
+Rounds: 140
+Rate of Fire: 2.3/second
+Magazine Size: 7, PRIMARY- Name: The Last Word
+Type: Hand Cannon
+DPS: 1257.23
+Item Rarity: Exotic
+Weapon Slot: PRIMARY
+Rounds: 225
+Rate of Fire: 3.75/second
+Magazine Size: 8, HEAVY- Name: Hadrian-A
+Type: Grenade Launcher
+DPS: 1021.23
+Item Rarity: Uncommon
+Weapon Slot: HEAVY
+Rounds: 150
+Rate of Fire: 2.5/second
+Magazine Size: 3, 
